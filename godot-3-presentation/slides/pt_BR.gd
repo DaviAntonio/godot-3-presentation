@@ -59,7 +59,7 @@ var intro = [
 			"""Programe mais rápido com:
 
 			- [color=%s]GDScript[/color], inspirada em Python e Lua, concebida para jogos
-			- [color=%s]VisualScript[/color], para os artistas e [i]designers[/i] de sua equpe
+			- [color=%s]VisualScript[/color], para os artistas e [i]designers[/i] de sua equipe
 			- [color=%s]ShaderScript[/color], para facilitar a criação de materiais
 			""" % [PINK, BLUE, GREEN],
 		'picture': 'res://slides/img/visual-script.png'
